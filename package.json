@@ -1,0 +1,27 @@
+{
+  "name": "express-1-eBirds",
+  "version": "1.0.0",
+  "description": "Simple express app serving data from the eBird API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielMcHugh/express-1-eBirds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielMcHugh/express-1-eBirds/issues"
+  },
+  "homepage": "https://github.com/GabrielMcHugh/express-1-eBirds#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
